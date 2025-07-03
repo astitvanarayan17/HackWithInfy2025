@@ -59,3 +59,4 @@ public class FractionalKnapsack {
         sc.close();
     }
 }
+// This code implements the Fractional Knapsack problem using a greedy approach.
