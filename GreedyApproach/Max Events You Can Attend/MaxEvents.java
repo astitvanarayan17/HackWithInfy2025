@@ -17,7 +17,7 @@ public class MaxEvents {
                 if (!attendedDays[d]) {
                     attendedDays[d] = true;
                     count++;
-                    break;  
+                    break;
                 }
             }
         }
